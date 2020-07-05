@@ -29,3 +29,4 @@ for number in range(2, 10, 2):
     count += 1
 
 print(f"We have {count} even numbers")
+

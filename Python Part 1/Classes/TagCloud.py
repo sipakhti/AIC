@@ -25,7 +25,7 @@ class TagCloud:
 # PROPERTIES
 class Product:
     def __init__(self, price):
-        self.price = price  # unPythonic
+        self.price = price
 
     @property
     def price(self):
